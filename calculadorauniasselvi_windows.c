@@ -108,7 +108,7 @@ int main (void)
             {
                 printf("\n\nFaltam ainda %.2f pontos para passar na disciplina\n\n", 7.00f - soma_das_notas);
                 printf("         **********TABELA DE PROJE%c%cO**********\n\n", c_cedilha_maiusculo, a_til_maiusculo);
-                printf("NOTA HIPOT%cTICA NA FINAL OBJETIVA        NOTA NECESS%cRIA NA DISCURSIVA            STATa_til_minusculoUS\n\n",
+                printf("NOTA HIPOT%cTICA NA FINAL OBJETIVA        NOTA NECESS%cRIA NA DISCURSIVA            STATUS\n\n",
                        e_agudo_maiusculo,a_agudo_maiusculo);
 
                 for (float j = 0; j < 11.0; j++)
