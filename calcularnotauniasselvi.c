@@ -1,5 +1,6 @@
 /*
     VERSÃO DO PROGRAMA: 23/04/2021
+    PARA COMPILAR EM LINUX
 
     Autor: Tiago Gadotti
 
